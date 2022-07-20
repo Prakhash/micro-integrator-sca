@@ -2,6 +2,7 @@
 
 [![Build Status](https://wso2.org/jenkins/buildStatus/icon?job=products/micro-integrator)](https://wso2.org/jenkins/job/products/job/micro-integrator/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPrakhash%2Fmicro-integrator-sca.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPrakhash%2Fmicro-integrator-sca?ref=badge_shield)
 [<img src="https://img.shields.io/badge/Slack-@wso2--ei/microintegrator-blue">](https://wso2-ei.slack.com/messages/microintegrator/)
 
 WSO2 Micro Integrator is the integration runtime of [WSO2 Enterprise Integrator
@@ -72,6 +73,9 @@ mvn clean install -Ddocker.skip=false
 ## License
 
 WSO2 Micro Integrator is licensed under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPrakhash%2Fmicro-integrator-sca.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPrakhash%2Fmicro-integrator-sca?ref=badge_large)
 
 ## Copyright
 
