@@ -25,7 +25,7 @@ Developers can create integrations graphically by using [WSO2 Integration Studio
 - [**Licence**](#licence)
 - [**Copyright**](#copyright)
 
-## Why Micro Integrator?   
+## Why Micro Integrator?
 
 The Micro Integrator provides developers with a flawless experience in developing, testing, and deploying integration solutions. The Micro Integrator developer experience is especially tuned for;
 -   Integration developers who prefer a config-driven approach to integration (centralized or decentralized).
